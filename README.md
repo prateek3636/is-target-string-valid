@@ -26,6 +26,6 @@ a + "abc" + bc = a**abc**bc
 ***or***  
 ab + "abc" + c = ab**abc**c
 
-So from given example if you can see, Target String - "aabcbc" is equal to the above strings, So we need to return true.
+So from given example if you can see, Target String - "aabcbc" is equal to the above target strings, So we need to return true.
 
 If it is not equal then just return false. 
